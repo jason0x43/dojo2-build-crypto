@@ -1,0 +1,18 @@
+{
+	"name": "dojo-crypto",
+	"version": "2.0.0-pre",
+	"description": "Cryptographic utilities",
+	"homepage": "http://dojotoolkit.org",
+	"bugs": {
+		"url": "https://github.com/dojo/crypto/issues"
+	},
+	"license": "BSD-3-Clause",
+	"main": "crypto.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dojo/crypto.git"
+	},
+	"dependencies": {
+		"dojo-core": "dojo/core"
+	}
+}

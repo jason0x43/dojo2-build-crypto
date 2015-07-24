@@ -1,0 +1,1 @@
+{"version":3,"file":"script.js","sourceRoot":"","sources":["providers/script.ts"],"names":[],"mappings":";;;;;;;;IAAA,qBAAoB,eAAe,CAAC,CAAA;IAG3B,eAAO,kBAHoB;IACpC,qBAAoB,eAAe,CAAC,CAAA;IAElB,eAAO,kBAFW;IAER","sourcesContent":["import getHash from './script/hash';\nimport getSign from './script/sign';\n\nexport { getHash, getSign };\n"]}

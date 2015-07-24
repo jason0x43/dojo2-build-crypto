@@ -1,0 +1,22 @@
+{
+	"name": "dojo-crypto",
+	"description": "Cryptographic utilities",
+	"keywords": [
+		"dojo",
+		"dojo2"
+	],
+	"authors": [
+	],
+	"main": "crypto.js",
+	"homepage": "http://dojotoolkit.org/",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/dojo/crypto.git"
+	},
+	"dependencies": {
+		"dojo-core"
+	},
+	"ignore": [ ".*" ],
+	"license": [ "BSD-3-Clause" ],
+	"moduleType": [ "amd" ]
+}
